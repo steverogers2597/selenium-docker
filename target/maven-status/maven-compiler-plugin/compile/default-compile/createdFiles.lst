@@ -1,0 +1,8 @@
+com\steverogers2597\pages\flightreservation\FlightsSearchPage.class
+com\steverogers2597\pages\flightreservation\RegistrationConfirmationPage.class
+com\steverogers2597\pages\vendorportal\LoginPage.class
+com\steverogers2597\pages\flightreservation\FlightConfirmationPage.class
+com\steverogers2597\pages\flightreservation\FLightsSelectionPage.class
+com\steverogers2597\pages\vendorportal\DashboardPage.class
+com\steverogers2597\pages\flightreservation\RegistrationPage.class
+com\steverogers2597\pages\AbstractPage.class
