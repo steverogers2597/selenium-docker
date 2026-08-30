@@ -1,0 +1,11 @@
+{
+  "firstName": "Tim",
+  "lastName": "Dawson",
+  "email": "tes1@ud.com",
+  "password": "test123",
+  "street": "123 main street",
+  "city": "NY",
+  "zip": "132212",
+  "passengersCount": "2",
+  "expectedPrice": "$1169 USD"
+}
