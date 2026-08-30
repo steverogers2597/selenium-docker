@@ -1,7 +1,0 @@
-com\steverogers2597\tests\AbstractTest.class
-com\steverogers2597\utils\JsonUtil.class
-com\steverogers2597\tests\vendorportal\VendorPortalTest.class
-com\steverogers2597\tests\flightreservation\FlightReservationTest.class
-com\steverogers2597\utils\ResourceLoader.class
-com\steverogers2597\tests\vendorportal\model\VendorPortalTestData.class
-com\steverogers2597\tests\flightreservation\model\FlightReservationTestData.class

@@ -230,13 +230,35 @@ mvn clean test
 
 ## ⭐ Future Enhancements
 
-- [ ] Docker containerization for CI/CD
+### Infrastructure & Containerization
+- [ ] **Docker Containerization** - Run tests inside Docker containers for consistency across environments
+- [ ] **Selenium Grid Infrastructure** - Disposable Selenium Grid setup using Docker for parallel test execution
+- [ ] **Docker Compose** - Multi-container orchestration for easy local testing environment setup
+
+### CI/CD Integration
+- [ ] **Jenkins Pipeline** - Automated test execution triggered by code commits
+- [ ] **Jenkins Agents** - Distributed testing across multiple Jenkins agents
+- [ ] **Build Artifacts** - Automated test report generation and artifact storage
+
+### Cloud Deployment
+- [ ] **AWS Infrastructure** - Deploy and run tests on AWS EC2 instances
+- [ ] **AWS Lambda** - Serverless test execution for on-demand testing
+- [ ] **S3 Integration** - Store test reports and artifacts in AWS S3
+- [ ] **CloudWatch** - Monitoring and logging for test execution metrics
+
+### Testing Enhancements
 - [ ] Allure reporting integration
-- [ ] Parallel test execution
-- [ ] Cross-browser testing (Firefox, Edge)
+- [ ] Parallel test execution with TestNG
+- [ ] Cross-browser testing (Firefox, Edge, Safari)
 - [ ] Performance metrics collection
-- [ ] Screenshot on failure
-- [ ] Video recording of test execution
+- [ ] Screenshot and video recording on failure
+- [ ] Email notifications for test results
+
+### DevOps & Monitoring
+- [ ] Kubernetes deployment for test infrastructure
+- [ ] Prometheus metrics collection
+- [ ] Grafana dashboards for test metrics visualization
+- [ ] Slack notifications for build status
 
 ---
 
